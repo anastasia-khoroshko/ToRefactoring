@@ -1,0 +1,14 @@
+C:\Users\MIB\Desktop\ASP.NET MVC 4 Training Spring 2014\Day 6\ToRefactoring\ToRefactoring\ShopModel\bin\Debug\ShopModel.exe
+C:\Users\MIB\Desktop\ASP.NET MVC 4 Training Spring 2014\Day 6\ToRefactoring\ToRefactoring\ShopModel\bin\Debug\ShopModel.pdb
+C:\Users\MIB\Desktop\ASP.NET MVC 4 Training Spring 2014\Day 6\ToRefactoring\ToRefactoring\ShopModel\obj\Debug\ShopModel.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\ASP.NET MVC 4 Training Spring 2014\Day 6\ToRefactoring\ToRefactoring\ShopModel\obj\Debug\ShopModel.exe
+C:\Users\MIB\Desktop\ASP.NET MVC 4 Training Spring 2014\Day 6\ToRefactoring\ToRefactoring\ShopModel\obj\Debug\ShopModel.pdb
+C:\Users\MIB\Desktop\EPAM Training Spring 2014 BSU\Day 6\ToRefactoring\ToRefactoring\ShopModel\obj\Debug\ShopModel.exe
+C:\Users\MIB\Desktop\EPAM Training Spring 2014 BSU\Day 6\ToRefactoring\ToRefactoring\ShopModel\obj\Debug\ShopModel.pdb
+C:\Users\User\Desktop\ToRefactoring\ShopModel\obj\Debug\ShopModel.exe
+C:\Users\User\Desktop\ToRefactoring\ShopModel\obj\Debug\ShopModel.pdb
+C:\Users\User\Desktop\ToRefactoring\ShopModel\obj\Debug\ShopModel.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ToRefactoring\ShopModel\bin\Debug\ShopModel.exe
+C:\Users\User\Desktop\ToRefactoring\ShopModel\bin\Debug\ShopModel.pdb
+C:\Users\User\Desktop\ToRefactoring\ShopModel\bin\Debug\Ninject.dll
+C:\Users\User\Desktop\ToRefactoring\ShopModel\bin\Debug\Ninject.xml
